@@ -1,6 +1,6 @@
 {
   "cena": 7,
   "dialogos": [
-    { "fala": "Olá, bem-vindo à cena!", "posicao": { "x": 500, "y": 331 } }
+    { "fala": "Satisfeito?!", "posicao": { "x": 500, "y": 331 } }
   ]
 }

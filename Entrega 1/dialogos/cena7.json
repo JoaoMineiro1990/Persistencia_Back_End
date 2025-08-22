@@ -1,6 +1,6 @@
 {
   "cena": 7,
   "dialogos": [
-    { "fala": "Satisfeito?!", "posicao": { "x": 500, "y": 331 } }
+    { "fala": "", "posicao": { "x": 500, "y": 331 } }
   ]
 }

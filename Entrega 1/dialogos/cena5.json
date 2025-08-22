@@ -1,6 +1,6 @@
 {
   "cena": 5,
   "dialogos": [
-    { "fala": "NAO!\n nao pense \n nisso", "posicao": { "x": 500, "y": 331 } }
+    { "fala": "NAO!\n nao pense \n nisso", "posicao": { "x": 600, "y":150 } }
   ]
 }

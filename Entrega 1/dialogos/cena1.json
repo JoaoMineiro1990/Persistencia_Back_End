@@ -1,6 +1,6 @@
 {
   "cena": 1,
   "dialogos": [
-    { "fala": "... e o toque final", "posicao": { "x": 500, "y": 231 } }
+    { "fala": "... e o toque \n final", "posicao": { "x": 500, "y": 180 } }
   ]
 }

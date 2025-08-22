@@ -1,6 +1,6 @@
 {
   "cena": 4,
   "dialogos": [
-    { "fala": "ah... \n perfeito", "posicao": { "x": 800, "y": 180 } }
+    { "fala": "ah... \n perfeito", "posicao": { "x": 900, "y": 180 } }
   ]
 }
